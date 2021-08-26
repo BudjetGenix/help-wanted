@@ -1,6 +1,5 @@
 # Help wanted
-
-#### Got an issue? Or a question? Want to suggest a better solution? We made this repository for you.
+Got an issue? Or a question? Want to suggest a better solution? We made this repository for you.
 
 ### If you have a Github account
 
